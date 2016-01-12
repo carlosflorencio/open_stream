@@ -1,9 +1,0 @@
-c:\users\carlo\documents\visual studio 2015\Projects\Stream\Stream\bin\Debug\Stream.exe.config
-c:\users\carlo\documents\visual studio 2015\Projects\Stream\Stream\bin\Debug\Stream.exe
-c:\users\carlo\documents\visual studio 2015\Projects\Stream\Stream\bin\Debug\Stream.pdb
-c:\users\carlo\documents\visual studio 2015\Projects\Stream\Stream\obj\Debug\Stream.csprojResolveAssemblyReference.cache
-c:\users\carlo\documents\visual studio 2015\Projects\Stream\Stream\obj\Debug\Stream.Form1.resources
-c:\users\carlo\documents\visual studio 2015\Projects\Stream\Stream\obj\Debug\Stream.Properties.Resources.resources
-c:\users\carlo\documents\visual studio 2015\Projects\Stream\Stream\obj\Debug\Stream.csproj.GenerateResource.Cache
-c:\users\carlo\documents\visual studio 2015\Projects\Stream\Stream\obj\Debug\Stream.exe
-c:\users\carlo\documents\visual studio 2015\Projects\Stream\Stream\obj\Debug\Stream.pdb
